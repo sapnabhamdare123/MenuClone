@@ -1,0 +1,60 @@
+/* background image*/
+.bg{
+    background-image:url(images/restaurat2.jpg);
+    background-size: cover;
+    }
+/*heding*/
+.heding{
+    color: black;
+    text-align: center;
+    }
+
+/* food-section*/
+.food-section{
+    display: flex;
+    justify-content: space-evenly;
+       }
+        
+/* food images */
+.box{
+    /* border: 2px solid black; */
+    height: 570px;
+    width: 400px;
+    background-color: white;
+    border-radius: 100px;
+    }
+.box-img{
+    height: 250px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    margin: 10px ;
+    }
+
+/* h1 tag */
+h1{
+    margin-left: 10px;
+}
+
+/* sapn tag*/
+span {
+    color: rgb(175, 10, 10);
+    margin-left: 240px;
+    
+}
+p{
+    margin-top: -15px;
+}
+
+hr{
+    border-top: 2px dashed;
+    width: 400px;
+    color: rgba(25, 24, 24, 0.525);
+}
+footer{
+    background-color: black;
+    margin-top: 30px;
+    text-align: center;
+}
+#foter{
+    color: rgb(255, 255, 255);
+}
